@@ -25,3 +25,46 @@
 <div align="left">
   <a href="https://github.com/ruancsfz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/ruancsferraz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/ruann2k8/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <!-- Coluna 1: Linguagens -->
+      <td valign="top" align="center" width="400">
+        <h3>LINGUAGENS USADAS</h3>
+        <br>
+        <div style="display: inline-block; margin: 0 10px; text-align: center;">
+          <img src="https://jsdelivr.net" height="40" alt="HTML5"/><br>
+          <span>HTML5</span>
+        </div>
+        <div style="display: inline-block; margin: 0 10px; text-align: center;">
+          <img src="https://jsdelivr.net" height="40" alt="CSS3"/><br>
+          <span>CSS3</span>
+        </div>
+        <div style="display: inline-block; margin: 0 10px; text-align: center;">
+          <img src="https://jsdelivr.net" height="40" alt="JavaScript"/><br>
+          <span>JavaScript</span>
+        </div>
+      </td>
+      
+      <!-- Espaçador invisível entre as colunas -->
+      <td width="50"></td>
+
+      <!-- Coluna 2: Bibliotecas -->
+      <td valign="top" align="center" width="400">
+        <h3>BIBLIOTECAS CONHECIDAS</h3>
+        <br>
+        <div style="display: inline-block; margin: 0 10px; text-align: center;">
+          <img src="https://jsdelivr.net" height="40" alt="React"/><br>
+          <span>React</span>
+        </div>
+        <div style="display: inline-block; margin: 0 10px; text-align: center;">
+          <img src="https://jsdelivr.net" height="40" alt="Bootstrap"/><br>
+          <span>Bootstrap</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</div>
