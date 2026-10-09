@@ -11,9 +11,3 @@
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 </div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&showicons=true&theme=tokyonight&includeallcommits=true&countprivate=true"
-    alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais utilizadas" />
-</div>
