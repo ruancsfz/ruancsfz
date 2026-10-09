@@ -12,9 +12,9 @@
 </div>
 
 <div align="center">
-  <table>
+  <table><h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
     <tr>
-      <td valign="top" align="center" width="400"><h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
+      <td valign="top" align="center" width="400">
         <h3>LINGUAGENS USADAS</h3>
         <br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
