@@ -11,8 +11,8 @@
 <br><br>
 </div>
 
-<div align="center">
-  <table><h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
+<div align="center"><h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
+  <table>
     <tr>
       <td valign="top" align="center" width="400">
         <h3>LINGUAGENS USADAS</h3>
