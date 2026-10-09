@@ -26,7 +26,7 @@
           <span>React</span>
         </div>
         <div style="display: inline-block; margin: 0 10px; text-align: center;">
-          <img src="https://jsdelivr.net" height="40" alt="Bootstrap"/><br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/><
           <span>Bootstrap</span>
         </div>
       </td>
