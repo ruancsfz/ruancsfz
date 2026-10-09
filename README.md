@@ -3,15 +3,15 @@
   
   <table>
     <tr>
-      <h2>Linguagens Conhecidas 📚:</h2>
-      <li>HTML5 🛠️</li>
-      <li>CSS 🎨</li>
-      <li>JAVASCRIPT 🇯‌🇸‌</li>
+      <h2>Linguagens Conhecidas 📚:</h2></td>
+      <td><li>HTML5 🛠️</li></td>
+      <td><li>CSS 🎨</li></td>
+      <td><li>JAVASCRIPT 🇯‌🇸‌</li></td>
     </tr>
     <tr>
-      <h2>Bibliotecas Conhecidas 📚:</h2>
-      <li>BOOTSTRAP 🅱️</li>
-      <li>REACTJS ⚛️</li>
+      <td><h2>Bibliotecas Conhecidas 📚:</h2></td>
+      <td><li>BOOTSTRAP 🅱️</li></td>
+      <td><li>REACTJS ⚛️</li></td>
     </tr>
   </table>
 </div>
