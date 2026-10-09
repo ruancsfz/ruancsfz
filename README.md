@@ -1,8 +1,10 @@
 <div>
-  <h1 class="title">Perfil do gitHub</h1>
+  <h1>Perfil do gitHub</h1>
   <h2>Linguagens Conhecidas 📚:</h2>
-  * HTML5
-  * CSS
-  * JAVASCRIPT
+  <ul>
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>JAVASCRIPT</li>
+  </ul>
   
 </div>
