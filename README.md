@@ -1,3 +1,3 @@
 <div>
-  <h1 class='>Perfil do gitHub</h1>
+  <h1 class="title">Perfil do gitHub</h1>
 </div>
