@@ -9,12 +9,10 @@
       <td valign="top" align="center" width="400">
         <h3>LINGUAGENS USADAS</h3>
         <br>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><span>HTML5</span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
           <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><br>
-          <span>CSS3</span>
         <div style="display: inline-block; margin: 0 10px; text-align: center;">
           <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br>
-          <span>JavaScript</span>
         </div>
       </td>
       <td width="50"></td>
