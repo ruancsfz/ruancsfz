@@ -11,9 +11,7 @@
         <br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
           <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><br>
-        <div style="display: inline-block; margin: 0 10px; text-align: center;">
           <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br>
-        </div>
       </td>
       <td width="50"></td>
       <td valign="top" align="center" width="400">
