@@ -8,8 +8,6 @@
       <li>CSS 🎨</li>
       <li>JAVASCRIPT 🇯‌🇸‌</li>
     </tr>
-  </table>
-  <table>
     <tr>
       <h2>Bibliotecas Conhecidas 📚:</h2>
       <li>BOOTSTRAP 🅱️</li>
