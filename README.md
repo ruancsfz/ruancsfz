@@ -14,4 +14,10 @@
 
 🌐 Onde me encontrar
 
-<div align="left"> <a href="https://github.com/SEUUSUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/SEULINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div>
+<div align="left">
+  <a href="https://github.com/ruancsfz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
+  </a> <a href="https://www.linkedin.com/in/ruancsferraz">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </div>
