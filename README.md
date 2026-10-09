@@ -30,7 +30,6 @@
 
   <table>
     <tr>
-      <!-- Coluna 1: Linguagens -->
       <td valign="top" align="center" width="400">
         <h3>LINGUAGENS USADAS</h3>
         <br>
@@ -47,11 +46,7 @@
           <span>JavaScript</span>
         </div>
       </td>
-      
-      <!-- Espaçador invisível entre as colunas -->
       <td width="50"></td>
-
-      <!-- Coluna 2: Bibliotecas -->
       <td valign="top" align="center" width="400">
         <h3>BIBLIOTECAS CONHECIDAS</h3>
         <br>
