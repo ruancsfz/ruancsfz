@@ -5,11 +5,13 @@
 <div align="left"> 
   <h1>LINGUAGENS USADAS:</h1>
   <table>
-    <tr>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><h1>HTML5</h1>
       <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><h1>CSS</h1>
       <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><h1>JavaScript</h1>
-    </tr>
+    </td>
+    </table>
+    <table>
     <td>
       <h1>BIBLIOTECAS CONHECIDAS</h1>
       <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
