@@ -17,12 +17,9 @@
       <td valign="top" align="center" width="400">
         <h3>BIBLIOTECAS CONHECIDAS</h3>
         <br>
-        <div style="display: inline-block; margin: 0 10px; text-align: center;">
-          <img src="https://jsdelivr.net" height="40" alt="React"/><br>
-          <span>React</span>
-        </div>
-        <div style="display: inline-block; margin: 0 10px; text-align: center;">
-        </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+        <img width="12"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React"/>
       </td>
     </tr>
   </table>
