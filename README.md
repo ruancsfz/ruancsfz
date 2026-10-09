@@ -6,8 +6,8 @@
 
 <div align="center">
   <h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
-</div>
 <br><br>
+</div>
 
 <div align="center">
   <table>
