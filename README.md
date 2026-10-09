@@ -3,7 +3,7 @@
   
   <table>
     <tr>
-      <h2>Linguagens Conhecidas 📚:</h2></td>
+      <td><h2>Linguagens Conhecidas 📚:</h2></td>
       <li>HTML5 🛠️</li>
       <li>CSS 🎨</li>
       <li>JAVASCRIPT 🇯‌🇸‌</li>
