@@ -12,7 +12,7 @@
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 </div>
 
-🌐 Onde me encontrar
+<h1>🌐 Onde me encontrar</h1>
 
 <div align="left">
   <a href="https://github.com/ruancsfz">
