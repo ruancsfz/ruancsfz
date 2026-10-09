@@ -33,7 +33,7 @@
       <td valign="top" align="center" width="400">
         <h3>LINGUAGENS USADAS</h3>
         <br>
-        <div style="display: inline-block; margin: 0 10px; align: center;">
+        <div style="display: inline-block; margin: 0 10px; text-align: center;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><span>HTML5</span>
         </div>
         <div style="display: inline-block; margin: 0 10px; text-align: center;">
