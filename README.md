@@ -1,13 +1,1 @@
-<div>
-  <h1>Perfil do gitHub</h1>
-  
-  <table>
-    <td>LINGUAGENS CONHECIDAS:
-    <tr>Ruan</tr>
-    </td>
-    <td>BIBLIOTECAS CINHECIDAS:
-    <tr>Ruan</tr>
-    </td>
-      <tr>ola</tr>
-  </table>
-</div>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /> </div>
