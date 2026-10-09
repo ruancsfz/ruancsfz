@@ -2,20 +2,18 @@
   <h1>Perfil do gitHub</h1>
   
   <table>
-    <ul>
+    <tr>
       <h2>Linguagens Conhecidas 📚:</h2>
       <li>HTML5 🛠️</li>
       <li>CSS 🎨</li>
       <li>JAVASCRIPT 🇯‌🇸‌</li>
-    </ul>
+    </tr>
   </table>
   <table>
-    <ul>
+    <tr>
       <h2>Bibliotecas Conhecidas 📚:</h2>
       <li>BOOTSTRAP 🅱️</li>
       <li>REACTJS ⚛️</li>
-    </ul>
+    </tr>
   </table>
 </div>
-
-<style>.itens{display:flex</style>
