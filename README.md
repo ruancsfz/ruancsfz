@@ -1,7 +1,7 @@
 <div>
   <h1>Perfil do gitHub</h1>
   
-  <div>
+  <div class="itens>
     <ul>
       <h2>Linguagens Conhecidas 📚:</h2>
       <li>HTML5 🛠️</li>
@@ -16,5 +16,6 @@
       <li>REACTJS ⚛️</li>
     </ul>
   </div>
-  
 </div>
+
+<style>.itens{display:flex</style>
