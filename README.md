@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+  <h1></h1>
   <h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
   <br><br>
   <table>
