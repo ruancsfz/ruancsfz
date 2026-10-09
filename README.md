@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1> </h1>
-  <h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
+  
   <br>
 <br><br>
 </div>
@@ -14,7 +14,7 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top" align="center" width="400">
+      <td valign="top" align="center" width="400"><h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
         <h3>LINGUAGENS USADAS</h3>
         <br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
