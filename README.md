@@ -5,13 +5,8 @@
 </div>
 
 <div align="center">
-  <h1> </h1>
-  
-  <br>
-<br><br>
-</div>
-
-<div align="center"><h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
+  <h1>📚 CONHECIMENTOS EM FRONT-END 📚</h1>
+  <br><br>
   <table>
     <tr>
       <td valign="top" align="center" width="400">
